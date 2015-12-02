@@ -9,8 +9,8 @@ This console based game was created in my first semester in college (UGM). The A
 The executable file is not included in this git. If you have problem compiling this game into exeecutable, or you have another question, please contact dwi.aji.kurniawan@gmail.com
 
 All credits goes to team members:
-Burhan Pirzada			(12/329992/TK/39187)
-Dwi Aji Kurniawan		(12/330174/TK/39360)
-Handoko Kustanto		(12/334062/TK/40221)
-Nurrahmat Pradeska	(12/333412/TK/39776)
-Thoriq Satriya			(12/330117/TK/39305)
+- Burhan Pirzada			(12/329992/TK/39187)
+- Dwi Aji Kurniawan		(12/330174/TK/39360)
+- Handoko Kustanto		(12/334062/TK/40221)
+- Nurrahmat Pradeska	(12/333412/TK/39776)
+- Thoriq Satriya			(12/330117/TK/39305)
