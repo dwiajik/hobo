@@ -10,7 +10,7 @@ The executable file is not included in this git. If you have problem compiling t
 
 All credits goes to team members:
 - Burhan Pirzada			(12/329992/TK/39187)
-- Dwi Aji Kurniawan		(12/330174/TK/39360)
-- Handoko Kustanto		(12/334062/TK/40221)
-- Nurrahmat Pradeska	(12/333412/TK/39776)
-- Thoriq Satriya			(12/330117/TK/39305)
+- [dwiajik](https://github.com/dwiajik) Dwi Aji Kurniawan		(12/330174/TK/39360)
+- [ndokoblog](https://github.com/ndokoblog) Handoko Kustanto		(12/334062/TK/40221)
+- [Pradeska](https://github.com/Pradeska) Nurrahmat Pradeska	(12/333412/TK/39776)
+- [thoriqsatriya](https://github.com/thoriqsatriya) Thoriq Satriya			(12/330117/TK/39305)
